@@ -1,7 +1,7 @@
 {
-  "id": "com.example.my_mod",
-  "name": "My Mod",
+  "id": "com.ruff.camera_fix",
+  "name": "Camera Mouse Fix",
   "version": "@PROJECT_VERSION@",
-  "author": "You",
+  "author": "Rufflesk",
   "description": "An example Dusklight mod"
 }
