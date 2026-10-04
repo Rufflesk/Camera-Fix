@@ -31,7 +31,7 @@ MOD_EXPORT ModResult mod_initialize(ModError*) {
         return result;
     }
 
-    mods::log::info("my_mod initialized");
+    mods::log::info("Camera Mouse Fix initialized");
     return MOD_OK;
 }
 
